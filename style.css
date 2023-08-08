@@ -1,5 +1,8 @@
+body {
+    background-color: black;
+}
 #menu {
-    background-color: red;
+    background-color: orange;
     width: auto;
     height: 200px;
     padding: 10px;
