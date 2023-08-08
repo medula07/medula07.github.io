@@ -1,4 +1,4 @@
-div{
+div1{
     background-color: orange;
     width: auto;
     height: 200px;
@@ -12,4 +12,11 @@ h1{
 h3{
     color: red;
     text-align: center;
+}
+div2{
+    background-color: grey;
+    width: auto;
+    height: 700px;
+    padding: 10px;
+    margin: 20px;
 }
