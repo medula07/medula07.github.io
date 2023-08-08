@@ -1,4 +1,4 @@
-#menu{
+#menu {
     background-color: orange;
     width: auto;
     height: 200px;
@@ -17,7 +17,7 @@ h3{
     color: red;
     text-align: center;
 }
-#body{
+#body {
     background-color: grey;
     width: auto;
     height: 700px;
