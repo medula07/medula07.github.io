@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 #menu {
-    background-color: orange;
+    background-color: grey;
     width: auto;
     height: 200px;
     padding: 10px;
@@ -21,7 +21,7 @@ h3{
     text-align: center;
 }
 #body {
-    background-color: grey;
+    background-color: white;
     width: auto;
     height: 700px;
     padding: 10px;
